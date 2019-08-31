@@ -13,8 +13,12 @@
             "price": 10.0
         },
         "play": {
-            "play": "play",
+            "name": "play",
             "price": 20.0
+        },
+        "fetch": {
+            "name": "fetch",
+            "price": 10.0
         }
     }
 }
